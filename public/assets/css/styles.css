@@ -1,0 +1,10 @@
+
+.transicionarMensaje{
+    overflow:hidden!important;
+    height:0px!important;
+    padding:0!important;
+    margin:0!important;
+    border:0!important;
+    transition:0.3s;
+}
+
